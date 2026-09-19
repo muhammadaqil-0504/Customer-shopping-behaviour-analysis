@@ -1,0 +1,504 @@
+Customer_ID,Age,Gender,Location,Product_Category,Item_Purchased,Purchase_Amount,Discount_Percent,Review_Rating,Previous_Purchases,Subscription_Status,Payment_Method,Shipping_Type,Purchase_Frequency
+10001,22.0,Female,Multan,Clothing,Sneakers,5072.0,20,4.6,23,No,Digital Wallet,Same Day,Monthly
+10002,55.0,Female,Lahore,Electronics,Keyboard,6755.0,0,4.2,23,No,Credit Card,Standard,Monthly
+10003,49.0,Male,Multan,Clothing,Sneakers,4139.0,10,3.9,7,Yes,Digital Wallet,Express,Weekly
+10004,39.0,Male,Lahore,Electronics,Smartwatch,3222.0,20,4.1,14,No,Cash,Express,Monthly
+10005,38.0,Male,Lahore,Home,Cookware,500.0,30,3.1,4,No,Debit Card,Standard,Weekly
+10006,59.0,Female,Lahore,Clothing,Jeans,5910.0,10,4.5,16,No,Credit Card,Standard,Weekly
+10007,22.0,Female,Islamabad,Electronics,Keyboard,4251.0,0,2.9,17,Yes,Debit Card,Standard,Monthly
+10008,51.0,Male,Faisalabad,Books,Notebook,2272.0,15,4.5,17,Yes,Digital Wallet,Express,Weekly
+10009,27.0,Male,Islamabad,Clothing,Jacket,4779.0,0,4.7,14,No,Bank Transfer,Standard,Fortnightly
+10010,22.0,Female,Lahore,Electronics,Smartwatch,3216.0,20,4.0,17,No,Bank Transfer,Express,Monthly
+10011,43.0,Male,Karachi,Home,Cushion,3337.0,15,3.7,13,Yes,Credit Card,Standard,Fortnightly
+10012,64.0,Female,Peshawar,Clothing,Jacket,5834.0,20,4.1,20,Yes,Digital Wallet,Standard,Rarely
+10013,53.0,Male,Peshawar,Clothing,T-Shirt,1556.0,25,1.5,4,No,Debit Card,Express,Rarely
+10014,54.0,Male,Multan,Clothing,Jacket,6804.0,15,4.0,12,Yes,Bank Transfer,Standard,Monthly
+10015,52.0,Female,Lahore,Books,Notebook,1425.0,15,3.7,10,No,Bank Transfer,Express,Rarely
+10016,55.0,Male,Multan,Clothing,Jeans,3042.0,20,3.8,13,No,Bank Transfer,Standard,Quarterly
+10017,42.0,Male,Multan,Clothing,Jacket,8730.0,25,4.4,3,Yes,Bank Transfer,Same Day,Fortnightly
+10018,,Male,Faisalabad,Clothing,T-Shirt,6980.0,25,3.7,8,No,Debit Card,Standard,Quarterly
+10019,58.0,Male,Lahore,Clothing,Jacket,4715.0,0,2.9,23,Yes,Bank Transfer,Same Day,Weekly
+10020,39.0,Male,Peshawar,Beauty,Shampoo,2431.0,15,3.7,2,Yes,Digital Wallet,Express,Quarterly
+10021,42.0,Male,Islamabad,Clothing,Jeans,3336.0,5,3.9,15,No,Credit Card,Standard,Monthly
+10022,35.0,Male,Lahore,Beauty,Face Cream,4661.0,25,3.9,16,No,Debit Card,Standard,Weekly
+10023,26.0,Male,Karachi,Beauty,Perfume,4583.0,15,3.9,11,No,Cash,Standard,Fortnightly
+10024,62.0,Female,Islamabad,Sports,Football,4300.0,10,4.6,0,Yes,Credit Card,Standard,Rarely
+10025,55.0,Female,Lahore,Clothing,Jeans,4432.0,5,2.9,0,Yes,Bank Transfer,Express,Fortnightly
+10026,48.0,Male,Karachi,Sports,Cricket Bat,4028.0,10,3.9,6,No,Bank Transfer,Standard,Fortnightly
+10027,37.0,Male,Islamabad,Beauty,Face Cream,1328.0,20,4.8,2,No,Credit Card,Standard,Fortnightly
+10028,57.0,Female,Peshawar,Clothing,Jacket,3364.0,5,2.4,2,No,Debit Card,Standard,Monthly
+10029,44.0,Female,Lahore,Home,Lamp,6512.0,0,3.9,4,Yes,Digital Wallet,Standard,Quarterly
+10030,39.0,Female,Faisalabad,Sports,Running Shoes,1490.0,25,3.3,4,No,Cash,Express,Quarterly
+10031,39.0,Male,Peshawar,Clothing,Jacket,4083.0,20,3.5,20,No,Cash,Standard,Monthly
+10032,28.0,Male,Multan,Books,Notebook,2697.0,5,3.1,15,No,Credit Card,Express,Fortnightly
+10033,22.0,Male,Peshawar,Electronics,Keyboard,4745.0,5,3.7,0,Yes,Bank Transfer,Same Day,Weekly
+10034,44.0,Male,Karachi,Beauty,Face Cream,3645.0,30,5.0,15,No,Credit Card,Standard,Monthly
+10035,60.0,Female,Multan,Books,Novel,7750.0,20,2.8,3,Yes,Digital Wallet,Standard,Quarterly
+10036,21.0,Male,Peshawar,Electronics,Smartwatch,5614.0,15,2.9,10,No,Digital Wallet,Standard,Quarterly
+10037,59.0,Male,Karachi,Sports,Running Shoes,1614.0,10,2.8,0,No,Debit Card,Standard,Monthly
+10038,57.0,Male,Islamabad,Electronics,Headphones,5977.0,5,5.0,2,No,Credit Card,Standard,Monthly
+10039,31.0,Female,Faisalabad,Sports,Yoga Mat,2796.0,0,3.4,3,No,Cash,Same Day,Monthly
+10040,48.0,Male,Islamabad,Beauty,Face Cream,3231.0,20,3.8,10,No,Digital Wallet,Express,Monthly
+10041,25.0,Female,Karachi,Clothing,Jeans,5190.0,0,3.5,11,No,Digital Wallet,Standard,Monthly
+10042,54.0,Male,Peshawar,Electronics,Smartphone,3418.0,0,3.0,8,No,Debit Card,Express,Quarterly
+10043,51.0,female,Peshawar,Electronics,Smartphone,6464.0,20,3.6,15,No,Debit Card,Standard,Monthly
+10044,35.0,Male,Islamabad,Clothing,Jacket,2796.0,30,5.0,18,Yes,Bank Transfer,Express,Rarely
+10045,21.0,Female,Multan,Clothing,T-Shirt,3138.0,20,4.9,18,No,Bank Transfer,Standard,Monthly
+10046,64.0,Female,Islamabad,Electronics,Smartwatch,3056.0,10,3.1,14,No,Cash,Express,Weekly
+10047,39.0,Female,Multan,Clothing,Jacket,3256.0,10,4.3,13,No,Bank Transfer,Same Day,Fortnightly
+10048,60.0,Female,Faisalabad,Clothing,Sneakers,6918.0,10,3.1,12,No,Digital Wallet,Express,Monthly
+10049,50.0,Female,Islamabad,Home,Lamp,5883.0,10,2.4,5,No,Bank Transfer,Express,Monthly
+10050,55.0,Female,Lahore,Home,Cookware,8262.0,15,4.6,12,Yes,Debit Card,Standard,Monthly
+10051,54.0,Female,Faisalabad,Home,Bedsheet,9489.0,10,4.7,0,No,Debit Card,Express,Quarterly
+10052,27.0,Male,Karachi,Electronics,Headphones,2232.0,15,4.6,24,Yes,Credit Card,Standard,Fortnightly
+10053,35.0,Female,Karachi,Sports,Running Shoes,4655.0,25,3.4,9,Yes,Bank Transfer,Express,Monthly
+10054,40.0,Female,Karachi,Beauty,Perfume,1912.0,30,3.7,18,No,Credit Card,Standard,Quarterly
+10055,41.0,Female,Peshawar,Clothing,Sneakers,2789.0,0,4.4,23,Yes,Credit Card,Standard,Monthly
+10056,20.0,Male,Lahore,Clothing,Jeans,3114.0,10,4.1,12,No,Credit Card,Standard,Monthly
+10057,44.0,Male,Multan,Home,Bedsheet,2174.0,5,3.5,21,No,Credit Card,Standard,Fortnightly
+10058,25.0,Female,Peshawar,Clothing,T-Shirt,2186.0,10,2.5,11,Yes,Credit Card,Express,Monthly
+10059,53.0,Male,Lahore,Beauty,Perfume,4183.0,5,3.9,3,No,Cash,Express,Quarterly
+10060,50.0,Male,Faisalabad,Books,Notebook,1823.0,0,4.7,0,Yes,Bank Transfer,Same Day,Rarely
+10061,62.0,Male,Faisalabad,Clothing,T-Shirt,6353.0,20,2.8,3,No,Debit Card,Standard,Monthly
+10062,53.0,Male,Islamabad,Clothing,Jeans,2481.0,10,4.3,23,No,Digital Wallet,Same Day,Fortnightly
+10063,35.0,Male,Multan,Books,Notebook,10681.0,25,4.1,11,No,Cash,Standard,Quarterly
+10064,64.0,Male,Islamabad,Beauty,Face Cream,3507.0,0,4.4,7,No,Bank Transfer,Standard,Quarterly
+10065,37.0,Male,Islamabad,Clothing,Jacket,4658.0,0,4.5,11,No,Cash,Express,Monthly
+10066,33.0,Male,Islamabad,Sports,Cricket Bat,1650.0,10,3.2,6,No,Debit Card,Standard,Quarterly
+10067,61.0,Male,Multan,Sports,Running Shoes,8253.0,0,2.5,21,No,Debit Card,Standard,Weekly
+10068,35.0,Female,Faisalabad,Beauty,Shampoo,6963.0,5,3.4,24,No,Debit Card,Standard,Weekly
+10069,21.0,Male,Islamabad,Beauty,Face Cream,5153.0,30,4.5,2,No,Bank Transfer,Standard,Weekly
+10070,40.0,Female,Peshawar,Clothing,T-Shirt,1537.0,5,3.4,17,Yes,Digital Wallet,Express,Fortnightly
+10071,56.0,Female,Multan,Clothing,Jeans,4963.0,5,3.2,8,No,Credit Card,Standard,Quarterly
+10072,27.0,Female,Peshawar,Beauty,Perfume,2033.0,15,,1,Yes,Digital Wallet,Standard,Monthly
+10073,40.0,Male,Multan,Electronics,Headphones,7717.0,10,5.0,23,No,Cash,Standard,Fortnightly
+10074,24.0,Female,Islamabad,Home,Bedsheet,6280.0,15,4.5,1,Yes,Credit Card,Standard,Monthly
+10075,50.0,Female,Multan,Sports,Cricket Bat,4710.0,10,4.4,5,Yes,Credit Card,Express,Monthly
+10076,40.0,Female,Karachi,Clothing,Jacket,500.0,20,4.6,0,No,Digital Wallet,Same Day,Fortnightly
+10077,33.0,Female,Karachi,Beauty,Face Cream,2336.0,0,4.3,11,No,Cash,Express,Weekly
+10078,28.0,Female,Islamabad,Clothing,Sneakers,6013.0,10,3.6,14,No,Credit Card,Express,Monthly
+10079,45.0,Female,Peshawar,Sports,Football,7168.0,20,3.7,8,No,Debit Card,Standard,Weekly
+10080,50.0,Male,Faisalabad,Clothing,Jeans,6940.0,25,3.5,1,No,Digital Wallet,Express,Quarterly
+10081,63.0,Female,Islamabad,Beauty,Perfume,998.0,10,5.0,2,Yes,Debit Card,Standard,Fortnightly
+10082,38.0,Male,Islamabad,Beauty,Lipstick,5163.0,15,4.2,23,Yes,Digital Wallet,Standard,Quarterly
+10083,25.0,Female,Karachi,Electronics,Smartphone,6734.0,0,3.4,20,No,Bank Transfer,Express,Quarterly
+10084,57.0,Female,Faisalabad,Home,Lamp,852.0,0,4.2,23,Yes,Bank Transfer,Standard,Weekly
+10085,48.0,Male,Islamabad,Home,Cushion,4483.0,0,3.0,13,No,Bank Transfer,Express,Weekly
+10086,51.0,Female,Faisalabad,Beauty,Perfume,5102.0,20,5.0,13,Yes,Cash,Express,Rarely
+10087,22.0,Male,Islamabad,Home,Lamp,3838.0,5,3.3,19,Yes,Debit Card,Same Day,Monthly
+10088,32.0,Female,Karachi,Books,Novel,500.0,20,4.2,15,Yes,Debit Card,Standard,Monthly
+10089,54.0,Male,Peshawar,Electronics,Headphones,3783.0,0,4.7,10,Yes,Credit Card,Standard,Weekly
+10090,57.0,Female,Islamabad,Beauty,Perfume,3780.0,25,4.1,7,Yes,Cash,Express,Fortnightly
+10091,38.0,Male,Lahore,Clothing,Jeans,4174.0,25,3.9,12,No,Cash,Standard,Monthly
+10092,56.0,Female,Islamabad,Sports,Yoga Mat,3260.0,0,3.8,1,Yes,Bank Transfer,Standard,Rarely
+10093,58.0,Female,Faisalabad,Beauty,Shampoo,3525.0,0,3.8,4,No,Bank Transfer,Express,Fortnightly
+10094,36.0,Female,Lahore,Electronics,Headphones,4413.0,0,3.3,18,No,Credit Card,Same Day,Quarterly
+10095,61.0,Female,Karachi,Clothing,Sneakers,5473.0,25,3.4,21,No,Bank Transfer,Express,Monthly
+10096,31.0,Female,Lahore,Sports,Running Shoes,28000.0,5,5.0,2,No,Bank Transfer,Standard,Weekly
+10097,29.0,Female,Faisalabad,Electronics,Headphones,3599.0,15,3.7,2,Yes,Digital Wallet,Standard,Fortnightly
+10098,50.0,Male,Multan,Home,Cushion,4703.0,10,3.2,2,Yes,Digital Wallet,Standard,Fortnightly
+10099,48.0,Female,Peshawar,Clothing,T-Shirt,500.0,20,3.4,19,Yes,Digital Wallet,Standard,Monthly
+10100,24.0,Male,Islamabad,Books,Notebook,5549.0,10,4.7,7,No,Cash,Standard,Monthly
+10101,57.0,Female,Peshawar,Clothing,Jeans,4499.0,15,4.3,8,No,Bank Transfer,Standard,Monthly
+10102,27.0,Male,Karachi,Clothing,T-Shirt,4587.0,30,4.2,0,Yes,Credit Card,Standard,Fortnightly
+10103,56.0,Female,Multan,Sports,Football,6614.0,0,3.6,24,No,Debit Card,Standard,Quarterly
+10104,18.0,Female,Faisalabad,Books,Notebook,500.0,25,4.3,10,No,Bank Transfer,Standard,Monthly
+10105,56.0,Male,Multan,Clothing,Jacket,500.0,0,3.3,19,No,Bank Transfer,Standard,Monthly
+10106,55.0,Female,Multan,Electronics,Smartphone,5102.0,10,3.6,17,No,Debit Card,Standard,Monthly
+10107,55.0,Female,Faisalabad,Home,Bedsheet,4484.0,25,4.6,3,No,Digital Wallet,Express,Fortnightly
+10108,49.0,Female,Karachi,Sports,Yoga Mat,4874.0,15,4.5,20,No,Cash,Standard,Quarterly
+10109,40.0,Female,Faisalabad,Electronics,Smartwatch,3483.0,20,3.0,13,No,Cash,Express,Monthly
+10110,51.0,Female,Multan,Beauty,Face Cream,5962.0,5,3.1,15,Yes,Cash,Standard,Monthly
+10111,31.0,Female,Peshawar,Home,Cookware,6552.0,10,3.9,5,Yes,Digital Wallet,Standard,Weekly
+10112,55.0,Male,Peshawar,Home,Bedsheet,5565.0,10,5.0,21,No,Debit Card,Standard,Monthly
+10113,44.0,Male,Karachi,Sports,Football,3926.0,15,2.3,23,No,Debit Card,Standard,Monthly
+10114,40.0,Male,Faisalabad,Beauty,Lipstick,500.0,10,4.0,10,No,Bank Transfer,Standard,Monthly
+10115,42.0,Female,Lahore,Clothing,Jeans,6192.0,10,2.7,2,No,Debit Card,Express,Quarterly
+10116,45.0,Male,Multan,Books,Notebook,7188.0,10,3.3,21,Yes,Debit Card,Same Day,Quarterly
+10117,19.0,Female,Peshawar,Sports,Cricket Bat,5918.0,5,3.5,22,No,Cash,Standard,Weekly
+10118,24.0,Female,Lahore,Sports,Cricket Bat,2565.0,10,3.5,12,Yes,Cash,Standard,Quarterly
+10119,29.0,Male,Faisalabad,Clothing,T-Shirt,5982.0,0,3.4,14,No,Digital Wallet,Express,Monthly
+10120,23.0,Female,Peshawar,Clothing,Sneakers,6393.0,25,3.8,5,No,Debit Card,Standard,Rarely
+10121,39.0,Female,Peshawar,Home,Cookware,7929.0,15,3.4,1,Yes,Cash,Standard,Fortnightly
+10122,50.0,Male,Islamabad,Clothing,Sneakers,2573.0,0,2.6,23,Yes,Credit Card,Express,Fortnightly
+10123,49.0,Male,Lahore,Books,Notebook,4002.0,20,4.4,12,No,Credit Card,Standard,Monthly
+10124,40.0,Male,Peshawar,Electronics,Keyboard,6144.0,25,4.4,6,Yes,Credit Card,Express,Fortnightly
+10125,59.0,Male,Peshawar,Home,Cushion,4626.0,5,4.5,17,Yes,Credit Card,Standard,Quarterly
+10126,45.0,Male,Faisalabad,Sports,Running Shoes,2042.0,0,2.6,0,No,Bank Transfer,Standard,Monthly
+10127,21.0,Female,Peshawar,Electronics,Smartwatch,5412.0,0,4.0,1,Yes,,Standard,Fortnightly
+10128,54.0,Male,Lahore,Electronics,Smartwatch,5773.0,0,4.3,6,No,Credit Card,Express,Monthly
+10129,45.0,Male,Faisalabad,Beauty,Shampoo,4694.0,20,3.0,11,Yes,Debit Card,Standard,Rarely
+10130,48.0,Female,Lahore,Beauty,Lipstick,4983.0,30,3.8,9,No,Debit Card,Express,Quarterly
+10131,45.0,Female,Peshawar,Electronics,Smartphone,3931.0,0,3.7,4,Yes,Digital Wallet,Express,Monthly
+10132,44.0,Female,Multan,Beauty,Perfume,7752.0,20,5.0,8,Yes,Digital Wallet,Express,Fortnightly
+10133,22.0,Female,Peshawar,Books,Programming Book,2518.0,0,5.0,8,Yes,Credit Card,Standard,Fortnightly
+10134,44.0,Male,Faisalabad,Electronics,Headphones,3208.0,15,2.5,13,Yes,Debit Card,Standard,Quarterly
+10135,56.0,Male,Lahore,Clothing,Jacket,4524.0,20,5.0,14,Yes,Cash,Standard,Quarterly
+10136,32.0,Female,Lahore,Electronics,Headphones,6434.0,10,3.1,22,Yes,Bank Transfer,Standard,Monthly
+10137,46.0,Female,Islamabad,Electronics,Keyboard,1206.0,0,4.6,20,Yes,Cash,Same Day,Quarterly
+10138,19.0,Female,Multan,Clothing,Jeans,1617.0,15,4.6,7,No,Cash,Standard,Weekly
+10139,34.0,Male,Lahore,Clothing,Jeans,500.0,30,3.0,22,No,Bank Transfer,Express,Quarterly
+10140,38.0,Female,Peshawar,Home,Cushion,4572.0,5,4.2,13,Yes,Cash,Standard,Fortnightly
+10141,65.0,Female,Karachi,Electronics,Smartphone,2040.0,5,3.7,4,Yes,Debit Card,Standard,Weekly
+10142,28.0,Male,Islamabad,Books,Notebook,3654.0,0,4.2,8,No,Cash,Standard,Monthly
+10143,31.0,Female,Karachi,Clothing,Jeans,5955.0,15,4.0,18,No,Bank Transfer,Express,Monthly
+10144,37.0,Female,Islamabad,Clothing,Jacket,3089.0,15,4.8,20,No,Bank Transfer,Standard,Rarely
+10145,65.0,Male,Islamabad,Home,Bedsheet,5009.0,20,3.9,9,Yes,Debit Card,Standard,Fortnightly
+10146,58.0,Male,Lahore,Sports,Cricket Bat,3841.0,20,3.7,3,No,Digital Wallet,Express,Quarterly
+10147,19.0,Female,Faisalabad,Clothing,Jacket,5979.0,25,4.7,4,Yes,Debit Card,Standard,Quarterly
+10148,29.0,Male,Multan,Clothing,Sneakers,5545.0,20,4.3,2,Yes,Cash,Standard,Monthly
+10149,57.0,Male,Peshawar,Clothing,Sneakers,2978.0,5,4.4,17,Yes,Cash,Standard,Rarely
+10150,20.0,Male,Karachi,Beauty,Face Cream,4129.0,15,3.3,12,No,Credit Card,Standard,Monthly
+10151,59.0,Male,Peshawar,Electronics,Keyboard,6796.0,5,3.0,11,Yes,Credit Card,Standard,Monthly
+10152,31.0,Female,Peshawar,Clothing,T-Shirt,5365.0,10,3.3,16,No,Credit Card,Standard,Fortnightly
+10153,62.0,Female,Peshawar,Clothing,T-Shirt,1427.0,30,3.3,20,Yes,Credit Card,Express,Fortnightly
+10154,32.0,Male,Islamabad,Beauty,Lipstick,5942.0,20,4.4,19,Yes,Debit Card,Standard,Quarterly
+10155,38.0,Female,Peshawar,Books,Novel,2114.0,30,4.6,3,No,Cash,Standard,Monthly
+10156,49.0,Female,Faisalabad,Home,Bedsheet,7608.0,10,3.7,14,No,Bank Transfer,Standard,Monthly
+10157,24.0,Male,Lahore,Beauty,Lipstick,6753.0,15,4.9,22,Yes,Credit Card,Standard,Fortnightly
+10158,44.0,Female,Karachi,Clothing,Sneakers,5138.0,10,4.9,19,No,Bank Transfer,Standard,Monthly
+10159,42.0,Male,Multan,Clothing,Jacket,4846.0,0,4.0,8,Yes,Debit Card,Standard,Quarterly
+10160,55.0,Female,Lahore,Electronics,Smartwatch,4040.0,5,3.1,9,Yes,Digital Wallet,Standard,Fortnightly
+10161,65.0,Female,Islamabad,Home,Lamp,5993.0,15,5.0,22,No,Debit Card,Standard,Quarterly
+10162,49.0,Female,Multan,Sports,Running Shoes,3684.0,0,3.8,0,Yes,Credit Card,Same Day,Monthly
+10163,37.0,Male,Lahore,Books,Novel,5018.0,30,3.9,13,No,Debit Card,Express,Quarterly
+10164,37.0,Female,Islamabad,Books,Notebook,6418.0,0,3.5,2,No,Bank Transfer,Standard,Fortnightly
+10165,38.0,Male,Karachi,Books,Novel,3264.0,5,3.1,22,Yes,Debit Card,Standard,Monthly
+10166,57.0,Male,Faisalabad,Books,Notebook,3144.0,20,2.6,0,Yes,Debit Card,Standard,Fortnightly
+10167,33.0,Male,Karachi,Clothing,Jacket,1872.0,0,4.3,0,Yes,Debit Card,Express,Monthly
+10168,26.0,Female,Peshawar,Clothing,Jeans,2158.0,25,3.2,8,No,Credit Card,Standard,Quarterly
+10169,34.0,Male,Lahore,Electronics,Smartwatch,500.0,20,5.0,5,No,Credit Card,Standard,Monthly
+10170,19.0,Female,Peshawar,Beauty,Shampoo,6106.0,0,2.9,12,No,Digital Wallet,Standard,Fortnightly
+10171,23.0,Female,Multan,Clothing,Jacket,8480.0,20,2.8,7,Yes,Bank Transfer,Standard,Quarterly
+10172,22.0,Male,Peshawar,Sports,Running Shoes,7636.0,15,4.2,8,No,Cash,Standard,Weekly
+10173,55.0,Male,Peshawar,Beauty,Perfume,923.0,20,5.0,14,Yes,Digital Wallet,Express,Monthly
+10174,52.0,Male,Karachi,Beauty,Perfume,6095.0,20,3.9,14,No,Bank Transfer,Same Day,Rarely
+10175,51.0,Female,Peshawar,Clothing,Sneakers,7629.0,20,4.3,23,No,Cash,Standard,Monthly
+10176,40.0,Female,Faisalabad,Clothing,Jacket,3495.0,15,2.3,12,No,Bank Transfer,Standard,Quarterly
+10177,52.0,Male,Peshawar,Clothing,Jacket,4723.0,10,3.3,14,Yes,Debit Card,Standard,Monthly
+10178,25.0,Female,Peshawar,Sports,Yoga Mat,500.0,20,2.9,16,Yes,Digital Wallet,Standard,Quarterly
+10179,61.0,Male,Faisalabad,Beauty,Face Cream,5087.0,30,2.3,4,Yes,Debit Card,Standard,Monthly
+10180,42.0,Female,Islamabad,Home,Lamp,2160.0,15,3.9,16,No,Debit Card,Standard,Quarterly
+10181,63.0,Female,Lahore,Electronics,Headphones,4939.0,15,2.0,21,No,Credit Card,Express,Fortnightly
+10182,25.0,Female,Lahore,Electronics,Headphones,1065.0,10,2.7,7,Yes,Credit Card,Same Day,Quarterly
+10183,41.0,Female,Islamabad,Electronics,Keyboard,5694.0,20,3.4,4,No,Bank Transfer,Express,Fortnightly
+10184,51.0,Female,Multan,Home,Lamp,6754.0,30,3.1,8,No,Digital Wallet,Express,Rarely
+10185,41.0,Male,Faisalabad,Home,Cookware,2777.0,0,4.1,6,Yes,Digital Wallet,Standard,Fortnightly
+10186,39.0,Male,Islamabad,Clothing,Sneakers,1999.0,5,4.0,14,Yes,Bank Transfer,Standard,Fortnightly
+10187,25.0,Male,Karachi,Books,Programming Book,500.0,15,4.5,21,Yes,Bank Transfer,Standard,Quarterly
+10188,36.0,MALE,Faisalabad,Clothing,Jeans,3914.0,10,4.4,14,No,Debit Card,Standard,Fortnightly
+10189,29.0,Female,Faisalabad,Sports,Football,3220.0,15,4.7,3,No,Credit Card,Standard,Monthly
+10190,32.0,Female,Peshawar,Clothing,Sneakers,1088.0,0,3.8,7,No,Bank Transfer,Express,Quarterly
+10191,50.0,Female,Multan,Clothing,T-Shirt,5497.0,10,4.0,17,No,Credit Card,Standard,Fortnightly
+10192,48.0,Male,Faisalabad,Sports,Cricket Bat,3510.0,15,4.2,8,No,Credit Card,Standard,Fortnightly
+10193,47.0,Female,Peshawar,Clothing,Jacket,2133.0,15,3.9,14,No,Digital Wallet,Standard,Monthly
+10194,35.0,Male,Islamabad,Electronics,Headphones,3280.0,15,3.5,17,No,Debit Card,Same Day,Fortnightly
+10195,64.0,Male,Peshawar,Electronics,Keyboard,6857.0,20,3.5,8,No,Credit Card,Standard,Fortnightly
+10196,22.0,Female,Islamabad,Clothing,T-Shirt,5826.0,15,3.1,16,No,Digital Wallet,Standard,Weekly
+10197,34.0,Female,Lahore,Home,Lamp,4214.0,20,4.1,9,No,Digital Wallet,Standard,Monthly
+10198,23.0,Female,Islamabad,Sports,Running Shoes,5862.0,15,3.7,3,No,Credit Card,Express,Fortnightly
+10199,34.0,Male,Lahore,Sports,Running Shoes,1946.0,15,3.3,9,No,Debit Card,Same Day,Weekly
+10200,64.0,Female,Lahore,Electronics,Smartphone,4571.0,15,3.3,11,No,Debit Card,Standard,Monthly
+10201,35.0,Male,Peshawar,Beauty,Lipstick,4824.0,0,2.8,0,No,Bank Transfer,Same Day,Monthly
+10202,61.0,Female,Multan,Clothing,Sneakers,3466.0,5,4.6,22,No,Digital Wallet,Standard,Weekly
+10203,41.0,Female,Karachi,Clothing,Sneakers,5458.0,15,3.9,13,No,Debit Card,Express,Fortnightly
+10204,51.0,Male,Peshawar,Clothing,T-Shirt,2783.0,25,3.1,0,No,Bank Transfer,Standard,Quarterly
+10205,,Male,Lahore,Books,Notebook,5622.0,15,4.4,21,No,Debit Card,Standard,Monthly
+10206,30.0,Male,Karachi,Sports,Cricket Bat,5714.0,0,3.4,21,No,Digital Wallet,Express,Monthly
+10207,54.0,Female,Multan,Home,Bedsheet,500.0,15,2.7,0,No,Debit Card,Standard,Monthly
+10208,64.0,Male,Karachi,Beauty,Lipstick,7119.0,5,4.6,4,Yes,Credit Card,Standard,Fortnightly
+10209,30.0,Female,Multan,Beauty,Perfume,500.0,20,3.4,9,No,Debit Card,Express,Quarterly
+10210,55.0,Female,Peshawar,Beauty,Face Cream,3145.0,20,3.5,12,No,Digital Wallet,Same Day,Rarely
+10211,30.0,Female,Lahore,Beauty,Lipstick,6756.0,15,3.8,18,No,Bank Transfer,Standard,Rarely
+10212,52.0,Male,Lahore,Electronics,Smartphone,3802.0,15,4.7,10,No,Cash,Express,Fortnightly
+10213,55.0,Female,Peshawar,Clothing,Jeans,1274.0,10,3.8,15,No,Cash,Express,Fortnightly
+10214,39.0,Male,Faisalabad,Clothing,Sneakers,2094.0,10,2.8,0,No,Debit Card,Standard,Fortnightly
+10215,53.0,Female,Faisalabad,Books,Cookbook,6759.0,25,4.2,16,Yes,Digital Wallet,Express,Fortnightly
+10216,31.0,Female,Islamabad,Beauty,Perfume,500.0,20,3.4,22,No,Debit Card,Standard,Monthly
+10217,21.0,Female,Islamabad,Books,Novel,6984.0,15,5.0,13,Yes,Debit Card,Express,Monthly
+10218,22.0,Female,Multan,Clothing,Jeans,4379.0,10,3.8,11,No,Bank Transfer,Standard,Fortnightly
+10219,39.0,Male,Faisalabad,Beauty,Lipstick,1877.0,0,2.0,7,No,Debit Card,Standard,Rarely
+10220,61.0,Female,Lahore,Clothing,Jeans,3217.0,0,4.1,23,No,Digital Wallet,Standard,Weekly
+10221,24.0,Male,Faisalabad,Clothing,Jacket,2262.0,5,5.0,0,Yes,Bank Transfer,Standard,Weekly
+10222,39.0,Male,Multan,Clothing,Jeans,6406.0,10,5.0,7,Yes,Bank Transfer,Express,Quarterly
+10223,51.0,Male,Lahore,Clothing,Sneakers,6111.0,30,5.0,3,No,Bank Transfer,Same Day,Quarterly
+10224,27.0,Male,Islamabad,Books,Programming Book,718.0,15,3.0,21,No,Bank Transfer,Standard,Monthly
+10225,52.0,Male,Multan,Electronics,Keyboard,3612.0,5,4.5,12,Yes,Cash,Standard,Monthly
+10226,32.0,Male,Faisalabad,Beauty,Lipstick,2601.0,0,3.2,23,No,Debit Card,Standard,Fortnightly
+10227,56.0,Male,Lahore,Electronics,Keyboard,7346.0,10,4.0,16,Yes,Cash,Standard,Fortnightly
+10228,45.0,Female,Lahore,Electronics,Smartphone,1530.0,20,2.8,13,No,Debit Card,Standard,Monthly
+10229,44.0,Female,Faisalabad,Beauty,Shampoo,8029.0,10,3.3,12,Yes,Cash,Express,Monthly
+10230,26.0,Male,Islamabad,Clothing,Sneakers,4427.0,20,3.3,5,Yes,Debit Card,Express,Monthly
+10231,40.0,Male,Peshawar,Books,Programming Book,1944.0,20,4.5,14,Yes,Credit Card,Standard,Fortnightly
+10232,59.0,Male,Faisalabad,Sports,Football,3010.0,0,4.4,17,No,Cash,Standard,Monthly
+10233,18.0,Female,Peshawar,Home,Cookware,2736.0,15,4.0,24,No,Cash,Express,Quarterly
+10234,54.0,Male,Karachi,Electronics,Headphones,1696.0,30,2.7,13,No,Debit Card,Standard,Fortnightly
+10235,41.0,Male,Islamabad,Clothing,Jacket,4709.0,10,3.6,23,No,Cash,Standard,Weekly
+10236,52.0,Male,Lahore,Books,Cookbook,1799.0,0,3.2,23,Yes,Digital Wallet,Standard,Monthly
+10237,49.0,Male,Faisalabad,Electronics,Smartphone,500.0,25,4.5,13,Yes,Bank Transfer,Standard,Quarterly
+10238,38.0,Male,Karachi,Clothing,Sneakers,3665.0,25,4.7,10,Yes,Bank Transfer,Standard,Monthly
+10239,32.0,Female,Islamabad,Electronics,Smartwatch,534.0,15,4.6,3,No,Cash,Express,Quarterly
+10240,48.0,Female,Islamabad,Sports,Football,2845.0,15,3.2,6,Yes,Bank Transfer,Standard,Monthly
+10241,24.0,Female,Karachi,Beauty,Face Cream,2500.0,5,1.6,21,No,Bank Transfer,Standard,Fortnightly
+10242,46.0,Female,Lahore,Home,Lamp,2583.0,20,2.4,3,Yes,Credit Card,Standard,Monthly
+10243,22.0,Female,Faisalabad,Sports,Running Shoes,8902.0,10,4.9,9,Yes,Cash,Express,Fortnightly
+10244,49.0,Male,Peshawar,Clothing,Jacket,4624.0,0,3.5,17,Yes,Debit Card,Standard,Quarterly
+10245,48.0,Female,Karachi,Books,Cookbook,5040.0,20,3.2,6,Yes,Bank Transfer,Standard,Fortnightly
+10246,22.0,Female,Islamabad,Electronics,Smartwatch,592.0,30,5.0,24,No,Cash,Standard,Fortnightly
+10247,54.0,Male,Karachi,Home,Bedsheet,3061.0,20,4.8,16,No,Cash,Standard,Monthly
+10248,37.0,Female,Multan,Clothing,T-Shirt,4974.0,5,3.8,0,Yes,Credit Card,Standard,Monthly
+10249,55.0,Male,Islamabad,Books,Novel,2246.0,0,3.6,6,No,Debit Card,Express,Monthly
+10250,19.0,Female,Peshawar,Electronics,Smartphone,6498.0,30,3.7,18,No,Debit Card,Standard,Monthly
+10251,26.0,Female,Karachi,Clothing,Jeans,1854.0,30,4.0,21,No,Debit Card,Standard,Rarely
+10252,41.0,Female,Lahore,Electronics,Keyboard,3870.0,15,5.0,23,No,Credit Card,Standard,Quarterly
+10253,27.0,Female,Faisalabad,Clothing,T-Shirt,3211.0,15,4.1,21,No,Cash,Express,Quarterly
+10254,33.0,Female,Faisalabad,Clothing,Jeans,4862.0,10,4.4,1,No,Cash,Express,Monthly
+10255,49.0,Female,Peshawar,Home,Lamp,3091.0,10,4.7,18,No,Cash,Express,Monthly
+10256,24.0,Female,Peshawar,Electronics,Headphones,3904.0,0,2.9,2,No,Bank Transfer,Standard,Monthly
+10257,50.0,Male,Peshawar,Books,Novel,3981.0,0,4.4,1,No,Bank Transfer,Express,Monthly
+10258,22.0,Female,Faisalabad,Electronics,Headphones,2884.0,5,3.6,17,Yes,Debit Card,Express,Fortnightly
+10259,26.0,Female,,Home,Cookware,5567.0,25,1.8,11,No,Cash,Standard,Monthly
+10260,46.0,Male,Islamabad,Electronics,Smartphone,5024.0,0,2.1,16,No,Debit Card,Standard,Weekly
+10261,56.0,Male,Lahore,Home,Cushion,4305.0,5,3.0,21,Yes,Digital Wallet,Express,Weekly
+10262,26.0,Female,Islamabad,Beauty,Perfume,3553.0,15,4.2,1,No,Credit Card,Standard,Quarterly
+10263,32.0,Male,Islamabad,Electronics,Keyboard,6252.0,5,3.9,13,No,Debit Card,Express,Weekly
+10264,62.0,Male,Lahore,Books,Programming Book,3981.0,0,3.9,20,Yes,Debit Card,Standard,Monthly
+10265,65.0,Male,Karachi,Electronics,Keyboard,3825.0,15,5.0,11,No,Credit Card,Standard,Monthly
+10266,45.0,Male,Faisalabad,Clothing,Jacket,4730.0,10,2.8,13,No,Debit Card,Standard,Fortnightly
+10267,39.0,Male,Islamabad,Home,Cookware,8232.0,15,3.8,12,No,Debit Card,Express,Rarely
+10268,34.0,Female,Peshawar,Sports,Cricket Bat,1551.0,25,4.0,22,Yes,Debit Card,Express,Fortnightly
+10269,47.0,Male,Islamabad,Clothing,T-Shirt,6194.0,0,3.2,1,Yes,Bank Transfer,Standard,Rarely
+10270,46.0,Female,Peshawar,Electronics,Smartwatch,500.0,25,3.8,21,No,Debit Card,Standard,Quarterly
+10271,32.0,Female,Faisalabad,Sports,Football,4978.0,25,2.5,20,Yes,Cash,Standard,Fortnightly
+10272,19.0,Male,Lahore,Home,Cushion,7965.0,20,4.9,20,Yes,Cash,Standard,Fortnightly
+10273,25.0,Male,Karachi,Books,Cookbook,5575.0,15,3.3,10,Yes,Debit Card,Same Day,Fortnightly
+10274,64.0,Female,Multan,Beauty,Perfume,4875.0,15,5.0,12,Yes,Digital Wallet,Standard,Monthly
+10275,38.0,Male,Faisalabad,Home,Lamp,3267.0,15,3.8,9,No,Cash,Standard,Fortnightly
+10276,41.0,Male,Karachi,Electronics,Smartwatch,4568.0,20,4.6,6,No,Cash,Standard,Rarely
+10277,40.0,Female,Faisalabad,Books,Novel,3945.0,0,3.8,21,No,Bank Transfer,Same Day,Fortnightly
+10278,55.0,Female,Peshawar,Electronics,Headphones,2771.0,30,3.8,12,No,Debit Card,Standard,Quarterly
+10279,21.0,Female,Islamabad,Home,Bedsheet,3862.0,15,3.3,18,No,Credit Card,Express,Fortnightly
+10280,21.0,Male,Lahore,Electronics,Keyboard,4936.0,20,3.9,2,Yes,Credit Card,Standard,Rarely
+10281,31.0,Female,Karachi,Beauty,Face Cream,2812.0,10,4.1,19,Yes,Bank Transfer,Standard,Fortnightly
+10282,41.0,Female,Peshawar,Home,Bedsheet,2726.0,0,3.2,16,Yes,Debit Card,Express,Monthly
+10283,50.0,Male,Multan,Beauty,Lipstick,1507.0,15,3.7,24,Yes,Bank Transfer,Standard,Monthly
+10284,41.0,Female,Peshawar,Books,Novel,5360.0,15,3.3,3,Yes,Credit Card,Express,Weekly
+10285,39.0,Male,Peshawar,Electronics,Smartphone,5700.0,10,5.0,13,Yes,Debit Card,Standard,Quarterly
+10286,63.0,Male,Lahore,Home,Cushion,5010.0,10,3.7,12,Yes,Digital Wallet,Express,Fortnightly
+10287,25.0,Female,Karachi,Electronics,Headphones,6623.0,5,5.0,13,No,Credit Card,Express,Monthly
+10288,45.0,Male,Lahore,Electronics,Headphones,4693.0,15,3.6,1,No,Credit Card,Express,Monthly
+10289,44.0,Male,Lahore,Electronics,Headphones,5362.0,10,4.0,11,No,Cash,Standard,Monthly
+10290,40.0,Female,Peshawar,Clothing,T-Shirt,5168.0,30,2.7,7,No,Bank Transfer,Express,Weekly
+10291,56.0,Female,Peshawar,Clothing,Jeans,4299.0,0,3.4,15,No,Cash,Same Day,Fortnightly
+10292,30.0,Female,Lahore,Home,Cushion,3332.0,10,4.0,5,Yes,Credit Card,Standard,Fortnightly
+10293,63.0,Female,Multan,Home,Lamp,9371.0,5,5.0,10,No,Bank Transfer,Standard,Fortnightly
+10294,33.0,Female,Faisalabad,Home,Cushion,3506.0,15,4.0,15,Yes,Cash,Express,Weekly
+10295,44.0,Male,Lahore,Clothing,T-Shirt,3035.0,10,4.9,1,No,Digital Wallet,Standard,Rarely
+10296,42.0,Male,Peshawar,Electronics,Smartwatch,5455.0,15,4.3,19,No,Debit Card,Express,Monthly
+10297,58.0,Male,Peshawar,Clothing,T-Shirt,5054.0,30,5.0,17,No,Credit Card,Express,Monthly
+10298,39.0,Male,Faisalabad,Home,Bedsheet,1409.0,5,3.8,1,Yes,Debit Card,Standard,Monthly
+10299,31.0,Female,Multan,Sports,Cricket Bat,6970.0,20,5.0,1,No,Bank Transfer,Standard,Fortnightly
+10300,19.0,Male,Islamabad,Clothing,Sneakers,4293.0,0,3.4,21,No,Debit Card,Standard,Monthly
+10301,35.0,Male,Multan,Home,Cookware,2056.0,5,3.2,7,No,Digital Wallet,Standard,Fortnightly
+10302,57.0,Male,Islamabad,Clothing,Jeans,7115.0,10,2.8,21,No,Digital Wallet,Express,Monthly
+10303,18.0,Male,Peshawar,Clothing,Jacket,5876.0,0,5.0,12,No,Credit Card,Standard,Monthly
+10304,61.0,Female,Lahore,Clothing,Jeans,1718.0,15,4.5,8,Yes,Bank Transfer,Standard,Monthly
+10305,44.0,Male,Karachi,Electronics,Headphones,8410.0,15,3.5,6,No,Credit Card,Express,Rarely
+10306,24.0,Male,Peshawar,Home,Cushion,5949.0,20,4.8,16,No,Digital Wallet,Standard,Fortnightly
+10307,32.0,Male,Karachi,Books,Notebook,4478.0,15,4.4,2,Yes,Credit Card,Express,Monthly
+10308,44.0,Female,Karachi,Clothing,T-Shirt,7998.0,15,5.0,10,Yes,Credit Card,Standard,Weekly
+10309,33.0,Female,Multan,Beauty,Face Cream,4850.0,10,2.6,8,No,Bank Transfer,Standard,Monthly
+10310,23.0,Female,Karachi,Home,Bedsheet,4438.0,0,3.6,3,No,Bank Transfer,Standard,Quarterly
+10311,49.0,Male,Faisalabad,Books,Cookbook,3047.0,0,3.4,8,No,Cash,Express,Fortnightly
+10312,50.0,Male,Karachi,Beauty,Perfume,5780.0,15,,13,No,Debit Card,Express,Monthly
+10313,23.0,Female,Karachi,Clothing,Sneakers,5549.0,30,4.6,16,No,Credit Card,Express,Monthly
+10314,31.0,Female,Peshawar,Beauty,Face Cream,4532.0,0,3.6,2,No,Bank Transfer,Same Day,Weekly
+10315,29.0,Female,Karachi,Electronics,Smartphone,2762.0,15,4.4,21,Yes,Debit Card,Express,Rarely
+10316,49.0,Female,Lahore,Books,Programming Book,4786.0,20,5.0,21,No,Digital Wallet,Express,Monthly
+10317,53.0,Female,Multan,Electronics,Keyboard,4346.0,20,3.5,17,No,Digital Wallet,Standard,Quarterly
+10318,52.0,Male,Peshawar,Home,Cushion,1566.0,15,3.5,23,Yes,Bank Transfer,Same Day,Monthly
+10319,63.0,Male,Lahore,Clothing,Jeans,1262.0,15,3.9,10,No,Bank Transfer,Express,Rarely
+10320,54.0,Female,Multan,Electronics,Headphones,5743.0,20,4.6,20,Yes,Digital Wallet,Express,Fortnightly
+10321,33.0,Male,Faisalabad,Sports,Football,500.0,25,3.3,18,No,Cash,Standard,Monthly
+10322,23.0,Female,Multan,Beauty,Face Cream,4952.0,0,3.3,14,No,Bank Transfer,Standard,Quarterly
+10323,47.0,Female,Lahore,Electronics,Smartwatch,3448.0,25,4.6,4,No,Bank Transfer,Express,Monthly
+10324,61.0,Female,Peshawar,Books,Cookbook,7378.0,0,4.1,13,No,Cash,Standard,Monthly
+10325,64.0,Female,Faisalabad,Sports,Yoga Mat,3414.0,25,2.2,22,No,Digital Wallet,Standard,Rarely
+10326,29.0,Female,Peshawar,Electronics,Smartwatch,5951.0,0,2.8,24,No,Bank Transfer,Same Day,Monthly
+10327,29.0,Female,Islamabad,Beauty,Face Cream,3627.0,5,5.0,11,yes,Credit Card,Standard,Quarterly
+10328,19.0,Female,Peshawar,Beauty,Face Cream,4750.0,0,4.1,6,No,Debit Card,Standard,Monthly
+10329,24.0,Female,Faisalabad,Home,Cushion,6121.0,10,3.2,18,Yes,Debit Card,Standard,Quarterly
+10330,44.0,Male,Lahore,Electronics,Smartwatch,3482.0,10,3.7,1,Yes,Digital Wallet,Standard,Quarterly
+10331,44.0,Female,Peshawar,Clothing,Jacket,6692.0,0,3.8,3,No,Digital Wallet,Express,Monthly
+10332,35.0,Female,Multan,Books,Programming Book,2314.0,10,4.4,14,Yes,Digital Wallet,Same Day,Fortnightly
+10333,32.0,Male,Karachi,Books,Novel,5148.0,10,2.7,24,Yes,Bank Transfer,Same Day,Weekly
+10334,57.0,Male,Faisalabad,Sports,Running Shoes,6530.0,20,3.1,8,No,Cash,Express,Monthly
+10335,40.0,Female,Islamabad,Books,Novel,5952.0,25,4.0,11,No,Digital Wallet,Express,Quarterly
+10336,56.0,Female,Faisalabad,Home,Lamp,8716.0,15,3.7,8,Yes,Cash,Standard,Monthly
+10337,64.0,Male,Peshawar,Home,Cookware,2820.0,0,4.3,11,No,Cash,Express,Fortnightly
+10338,33.0,Male,Peshawar,Home,Lamp,1466.0,5,2.8,0,No,Cash,Standard,Fortnightly
+10339,27.0,Male,Karachi,Beauty,Lipstick,2312.0,25,4.1,14,No,Digital Wallet,Standard,Monthly
+10340,63.0,Male,Peshawar,Electronics,Smartwatch,5953.0,0,4.7,14,Yes,Debit Card,Same Day,Quarterly
+10341,48.0,Female,Islamabad,Clothing,Jacket,5595.0,10,4.2,7,No,Credit Card,Express,Fortnightly
+10342,31.0,Male,Multan,Home,Cushion,4725.0,30,3.9,6,Yes,Cash,Standard,Monthly
+10343,47.0,Male,Multan,Electronics,Headphones,2029.0,30,3.7,19,No,Debit Card,Express,Quarterly
+10344,42.0,Female,Islamabad,Clothing,Jacket,6187.0,10,3.1,4,Yes,Bank Transfer,Standard,Rarely
+10345,61.0,Male,Islamabad,Beauty,Shampoo,1806.0,15,3.7,1,No,Digital Wallet,Standard,Weekly
+10346,30.0,Male,Islamabad,Electronics,Smartwatch,7050.0,10,4.8,1,Yes,Debit Card,Standard,Rarely
+10347,65.0,Female,Peshawar,Clothing,Jacket,10786.0,20,3.7,22,No,Bank Transfer,Standard,Monthly
+10348,62.0,Female,Islamabad,Sports,Football,5306.0,0,3.1,9,Yes,Digital Wallet,Standard,Quarterly
+10349,26.0,Female,Karachi,Sports,Football,5783.0,0,3.4,2,No,Digital Wallet,Standard,Weekly
+10350,25.0,Female,Islamabad,Clothing,Sneakers,3416.0,15,4.0,21,No,Credit Card,Standard,Monthly
+10351,43.0,Male,Karachi,Clothing,T-Shirt,518.0,5,3.5,3,Yes,Digital Wallet,Standard,Monthly
+10352,20.0,Female,Islamabad,Electronics,Smartwatch,3174.0,15,4.2,8,Yes,Debit Card,Same Day,Fortnightly
+10353,32.0,Female,Lahore,Sports,Football,2096.0,10,4.2,0,Yes,Digital Wallet,Express,Monthly
+10354,38.0,Female,Lahore,Sports,Cricket Bat,1317.0,25,4.5,16,Yes,Cash,Express,Monthly
+10355,64.0,Female,Multan,Clothing,Sneakers,8289.0,20,4.9,17,No,Cash,Standard,Monthly
+10356,65.0,Female,Lahore,Home,Cushion,5100.0,10,4.6,18,No,Digital Wallet,Express,Weekly
+10357,25.0,Female,Faisalabad,Clothing,T-Shirt,5335.0,20,3.1,6,Yes,Bank Transfer,Express,Monthly
+10358,60.0,Male,Multan,Electronics,Smartwatch,3820.0,5,3.1,8,No,Cash,Standard,Fortnightly
+10359,22.0,Female,Multan,Books,Novel,4120.0,10,3.7,23,Yes,Digital Wallet,Standard,Rarely
+10360,53.0,Male,Islamabad,Clothing,Jacket,6622.0,5,3.4,20,No,Cash,Standard,Rarely
+10361,58.0,Female,Karachi,Clothing,Sneakers,4429.0,25,2.9,0,No,Bank Transfer,Standard,Fortnightly
+10362,60.0,Female,Peshawar,Electronics,Keyboard,5668.0,20,3.4,17,No,Credit Card,Standard,Fortnightly
+10363,28.0,Female,Peshawar,Beauty,Face Cream,32000.0,25,3.4,20,No,Cash,Standard,Fortnightly
+10364,60.0,Female,Faisalabad,Books,Programming Book,3747.0,25,3.3,13,No,Digital Wallet,Standard,Monthly
+10365,23.0,Male,Lahore,Books,Novel,1405.0,30,3.5,15,No,Digital Wallet,Express,Quarterly
+10366,42.0,Female,Lahore,Clothing,Jacket,500.0,5,4.7,0,Yes,Cash,Standard,Monthly
+10367,40.0,Female,Karachi,Clothing,Jacket,3925.0,30,4.0,0,No,Cash,Standard,Weekly
+10368,33.0,Male,Lahore,Sports,Yoga Mat,4624.0,15,5.0,0,No,Bank Transfer,Express,Weekly
+10369,19.0,Male,Peshawar,Clothing,Jeans,1671.0,10,3.9,3,No,Cash,Standard,Fortnightly
+10370,55.0,Male,Karachi,Sports,Football,4424.0,15,3.6,24,Yes,Bank Transfer,Standard,Quarterly
+10371,34.0,Female,Karachi,Home,Bedsheet,4618.0,10,3.8,15,Yes,Digital Wallet,Standard,Monthly
+10372,49.0,Female,Peshawar,Clothing,T-Shirt,500.0,5,4.0,19,No,Bank Transfer,Standard,Monthly
+10373,37.0,Female,Multan,Sports,Yoga Mat,2487.0,5,4.1,7,No,Credit Card,Standard,Fortnightly
+10374,35.0,Male,Karachi,Clothing,Jacket,5396.0,0,5.0,23,No,Cash,Standard,Rarely
+10375,60.0,Female,Islamabad,Electronics,Keyboard,5352.0,10,3.1,4,No,Bank Transfer,Standard,Monthly
+10376,22.0,Male,Faisalabad,Beauty,Shampoo,1962.0,25,4.5,22,No,Cash,Same Day,Quarterly
+10377,53.0,Female,Faisalabad,Beauty,Shampoo,4849.0,15,4.0,0,Yes,Debit Card,Same Day,Rarely
+10378,53.0,Male,Peshawar,Home,Cookware,6749.0,15,2.5,0,No,Debit Card,Standard,Monthly
+10379,36.0,Female,Peshawar,Home,Bedsheet,6210.0,10,4.4,1,Yes,Bank Transfer,Standard,Rarely
+10380,30.0,Female,Peshawar,Books,Notebook,4290.0,10,4.8,19,Yes,Credit Card,Standard,Fortnightly
+10381,18.0,Female,Lahore,Books,Programming Book,3470.0,5,3.1,6,Yes,Bank Transfer,Express,Monthly
+10382,62.0,Female,Karachi,Beauty,Lipstick,3115.0,20,3.8,11,No,Bank Transfer,Express,Weekly
+10383,63.0,Male,Faisalabad,Clothing,Sneakers,5529.0,5,2.4,11,No,Credit Card,Standard,Monthly
+10384,29.0,Male,Lahore,Home,Bedsheet,4929.0,20,2.8,19,No,Credit Card,Standard,Fortnightly
+10385,19.0,Male,Islamabad,Books,Programming Book,5885.0,20,4.6,8,Yes,Cash,Standard,Weekly
+10386,23.0,Male,Lahore,Electronics,Headphones,4790.0,15,3.4,0,No,Debit Card,Express,Weekly
+10387,21.0,Female,Peshawar,Electronics,Smartwatch,6301.0,25,2.9,9,No,Credit Card,Express,Fortnightly
+10388,57.0,Female,Lahore,Electronics,Keyboard,4708.0,5,4.0,7,No,Cash,Standard,Monthly
+10389,60.0,Female,Lahore,Clothing,Jeans,6226.0,25,3.4,18,No,Debit Card,Standard,Monthly
+10390,,Female,Karachi,Home,Cookware,6416.0,20,3.4,18,No,Debit Card,Standard,Fortnightly
+10391,53.0,Female,Lahore,Electronics,Smartphone,2730.0,20,4.4,2,No,Cash,Express,Rarely
+10392,26.0,Female,Faisalabad,Sports,Cricket Bat,522.0,15,2.9,19,No,Cash,Same Day,Rarely
+10393,35.0,Male,Islamabad,Sports,Running Shoes,7896.0,25,3.1,1,No,Cash,Standard,Weekly
+10394,46.0,Male,Peshawar,Sports,Football,5065.0,30,3.9,15,No,Bank Transfer,Standard,Monthly
+10395,52.0,Female,Karachi,Electronics,Smartphone,728.0,10,4.6,9,No,Credit Card,Standard,Monthly
+10396,59.0,Female,Faisalabad,Electronics,Smartwatch,2930.0,20,4.8,7,Yes,Cash,Standard,Quarterly
+10397,20.0,Male,Faisalabad,Home,Cushion,6198.0,20,3.3,12,No,Cash,Express,Monthly
+10398,27.0,Female,Faisalabad,Sports,Running Shoes,3885.0,10,4.5,7,No,Digital Wallet,Standard,Quarterly
+10399,31.0,Female,Multan,Beauty,Face Cream,3373.0,25,3.2,19,No,Credit Card,Express,Weekly
+10400,32.0,Male,Karachi,Sports,Cricket Bat,7582.0,10,5.0,24,No,Bank Transfer,Standard,Monthly
+10401,65.0,Male,Faisalabad,Clothing,Sneakers,2196.0,15,2.9,20,Yes,Debit Card,Standard,Quarterly
+10402,55.0,Female,Multan,Sports,Running Shoes,2744.0,0,4.9,10,No,Cash,Standard,Monthly
+10403,33.0,Female,Peshawar,Clothing,T-Shirt,4965.0,5,3.3,12,Yes,Credit Card,Standard,Quarterly
+10404,64.0,Male,Faisalabad,Clothing,Sneakers,5359.0,25,5.0,11,No,Cash,Standard,Weekly
+10405,41.0,Female,Faisalabad,Beauty,Perfume,5592.0,10,4.3,19,Yes,Bank Transfer,Express,Fortnightly
+10406,42.0,Male,Peshawar,Clothing,Jeans,6505.0,10,3.0,13,No,Credit Card,Standard,Weekly
+10407,38.0,Female,Faisalabad,Clothing,Jeans,4937.0,5,3.4,11,No,Debit Card,Standard,Fortnightly
+10408,24.0,Male,Peshawar,Clothing,Jacket,5577.0,10,4.4,10,No,Cash,Standard,Weekly
+10409,62.0,Female,Lahore,Electronics,Keyboard,3930.0,20,4.6,9,Yes,Digital Wallet,Standard,Monthly
+10410,18.0,Male,Islamabad,Home,Cushion,4638.0,25,3.7,13,No,Credit Card,Express,Monthly
+10411,26.0,Male,Lahore,Clothing,T-Shirt,4737.0,0,3.8,17,No,Debit Card,Same Day,Monthly
+10412,29.0,Female,Lahore,Home,Bedsheet,4973.0,15,4.4,10,No,Digital Wallet,Standard,Monthly
+10413,31.0,Male,Islamabad,Sports,Football,6200.0,10,3.9,20,No,Bank Transfer,Express,Weekly
+10414,24.0,Male,Karachi,Clothing,T-Shirt,5721.0,15,2.8,20,Yes,Bank Transfer,Express,Monthly
+10415,18.0,Male,Islamabad,Clothing,Jacket,4597.0,10,3.1,10,No,Digital Wallet,Same Day,Weekly
+10416,50.0,Female,Islamabad,Sports,Yoga Mat,2720.0,10,4.0,22,Yes,Cash,Standard,Quarterly
+10417,64.0,Female,Faisalabad,Sports,Cricket Bat,4649.0,10,4.8,4,Yes,Digital Wallet,Standard,Weekly
+10418,23.0,Female,Peshawar,Beauty,Lipstick,4438.0,15,5.0,23,No,Debit Card,Standard,Monthly
+10419,32.0,Male,Peshawar,Sports,Football,4925.0,15,4.4,7,No,Debit Card,Express,Rarely
+10420,42.0,Male,Islamabad,Clothing,Jeans,9354.0,10,4.0,14,Yes,Credit Card,Express,Monthly
+10421,62.0,Male,Karachi,Electronics,Keyboard,3348.0,20,4.4,7,Yes,Bank Transfer,Standard,Monthly
+10422,51.0,Female,Multan,Home,Bedsheet,5429.0,20,3.3,11,Yes,Digital Wallet,Standard,Quarterly
+10423,54.0,Female,Lahore,Clothing,Jacket,6851.0,10,3.7,8,Yes,Bank Transfer,Express,Weekly
+10424,45.0,Female,Faisalabad,Home,Cushion,4716.0,20,3.1,17,No,Cash,Express,Monthly
+10425,38.0,Female,Islamabad,Beauty,Shampoo,9643.0,25,2.8,2,Yes,Debit Card,Standard,Rarely
+10426,27.0,Male,Karachi,Home,Bedsheet,3668.0,0,4.1,20,No,Bank Transfer,Express,Rarely
+10427,59.0,Female,Faisalabad,Electronics,Smartphone,5213.0,15,3.9,22,Yes,Credit Card,Standard,Monthly
+10428,56.0,Female,Karachi,Electronics,Smartwatch,2743.0,5,4.4,14,Yes,,Standard,Monthly
+10429,19.0,Male,Karachi,Clothing,Sneakers,3727.0,20,4.2,13,No,Bank Transfer,Standard,Quarterly
+10430,52.0,Male,Faisalabad,Clothing,Jeans,5048.0,5,4.0,17,Yes,Cash,Express,Monthly
+10431,22.0,Male,Karachi,Home,Lamp,6362.0,15,4.2,4,No,Debit Card,Same Day,Fortnightly
+10432,53.0,Male,Multan,Clothing,Sneakers,5202.0,5,3.8,18,No,Cash,Standard,Fortnightly
+10433,57.0,Male,Lahore,Clothing,T-Shirt,7270.0,15,4.1,5,No,Debit Card,Standard,Fortnightly
+10434,24.0,Male,Islamabad,Clothing,Jeans,4291.0,30,3.2,16,No,Credit Card,Standard,Monthly
+10435,38.0,Female,Multan,Clothing,T-Shirt,3769.0,10,4.1,7,Yes,Digital Wallet,Standard,Fortnightly
+10436,23.0,Male,Karachi,Sports,Cricket Bat,10449.0,25,4.3,18,No,Digital Wallet,Standard,Weekly
+10437,45.0,Male,Multan,Electronics,Smartphone,5367.0,30,3.3,19,No,Debit Card,Standard,Weekly
+10438,62.0,Female,Multan,Books,Cookbook,2917.0,25,3.8,5,No,Debit Card,Standard,Rarely
+10439,21.0,Female,Peshawar,Clothing,Sneakers,2973.0,0,3.3,15,Yes,Bank Transfer,Standard,Weekly
+10440,37.0,Female,Karachi,Home,Bedsheet,2426.0,20,3.4,12,No,Bank Transfer,Standard,Weekly
+10441,64.0,Male,Multan,Electronics,Smartwatch,6560.0,0,2.9,7,Yes,Bank Transfer,Express,Monthly
+10442,32.0,Female,Peshawar,Electronics,Headphones,3698.0,10,4.8,14,Yes,Bank Transfer,Standard,Fortnightly
+10443,24.0,Male,Multan,Sports,Yoga Mat,4780.0,25,4.7,24,No,Digital Wallet,Express,Rarely
+10444,41.0,Male,Karachi,Books,Novel,4360.0,20,4.2,0,Yes,Digital Wallet,Same Day,Rarely
+10445,42.0,Female,Multan,Sports,Running Shoes,6109.0,15,5.0,23,Yes,Cash,Standard,Monthly
+10446,49.0,Female,Lahore,Clothing,Jacket,2637.0,10,3.6,21,Yes,Debit Card,Standard,Monthly
+10447,33.0,Female,Faisalabad,Clothing,Jeans,2134.0,20,5.0,13,No,Debit Card,Standard,Monthly
+10448,63.0,Female,Islamabad,Home,Cookware,4993.0,20,3.6,15,Yes,Debit Card,Standard,Weekly
+10449,43.0,Female,Faisalabad,Electronics,Keyboard,5822.0,10,4.0,9,No,Debit Card,Standard,Fortnightly
+10450,31.0,Male,Faisalabad,Home,Cushion,5232.0,25,3.5,3,Yes,Bank Transfer,Standard,Weekly
+10451,64.0,Male,Lahore,Beauty,Perfume,2719.0,5,4.1,14,No,Debit Card,Standard,Weekly
+10452,62.0,Male,Faisalabad,Beauty,Face Cream,5990.0,0,4.5,20,no,Credit Card,Standard,Monthly
+10453,41.0,Male,Peshawar,Sports,Yoga Mat,2864.0,15,3.7,5,No,Debit Card,Standard,Weekly
+10454,19.0,Female,Islamabad,Home,Cushion,3353.0,30,5.0,17,Yes,Digital Wallet,Express,Weekly
+10455,46.0,Male,Karachi,Clothing,Sneakers,2423.0,5,4.0,18,Yes,Credit Card,Standard,Monthly
+10456,44.0,Female,Peshawar,Clothing,Sneakers,7363.0,5,4.0,18,Yes,Cash,Standard,Monthly
+10457,25.0,Female,Lahore,Beauty,Lipstick,5894.0,0,3.1,8,Yes,Digital Wallet,Express,Weekly
+10458,48.0,Female,Islamabad,Beauty,Face Cream,5831.0,25,4.1,9,Yes,Cash,Standard,Weekly
+10459,58.0,Male,Faisalabad,Clothing,Sneakers,7244.0,5,3.7,10,No,Bank Transfer,Express,Fortnightly
+10460,23.0,Male,Islamabad,Electronics,Smartphone,10688.0,15,3.3,21,No,Digital Wallet,Standard,Fortnightly
+10461,52.0,Female,Peshawar,Home,Cushion,740.0,30,3.2,22,Yes,Credit Card,Standard,Quarterly
+10462,24.0,Female,Islamabad,Sports,Running Shoes,2876.0,0,5.0,10,No,Credit Card,Same Day,Rarely
+10463,53.0,Female,Peshawar,Beauty,Lipstick,3144.0,15,3.6,24,No,Credit Card,Standard,Monthly
+10464,38.0,Female,Lahore,Electronics,Headphones,2628.0,15,2.6,14,Yes,Cash,Standard,Monthly
+10465,18.0,Female,Multan,Clothing,Jeans,2129.0,20,3.2,9,Yes,Cash,Same Day,Quarterly
+10466,64.0,Male,Faisalabad,Beauty,Shampoo,3841.0,10,3.8,0,Yes,Cash,Express,Monthly
+10467,25.0,Female,Karachi,Electronics,Keyboard,1823.0,10,4.2,15,Yes,Debit Card,Express,Fortnightly
+10468,46.0,Male,Karachi,Beauty,Perfume,5237.0,0,4.2,16,No,Debit Card,Standard,Weekly
+10469,26.0,Female,Multan,Home,Cookware,4614.0,20,4.3,24,No,Cash,Standard,Monthly
+10470,62.0,Female,Faisalabad,Clothing,Sneakers,5558.0,20,3.3,17,No,Digital Wallet,Express,Monthly
+10471,53.0,Female,Faisalabad,Clothing,T-Shirt,5617.0,0,4.1,0,No,Bank Transfer,Standard,Weekly
+10472,56.0,Male,Lahore,Clothing,Jacket,5827.0,10,3.1,14,No,Cash,Standard,Fortnightly
+10473,38.0,Male,Faisalabad,Sports,Cricket Bat,3679.0,25,3.3,18,Yes,Digital Wallet,Express,Fortnightly
+10474,40.0,Female,Peshawar,Home,Bedsheet,9167.0,0,3.1,12,Yes,Cash,Standard,Fortnightly
+10475,48.0,Male,,Clothing,Jeans,5016.0,5,2.8,10,Yes,Debit Card,Standard,Monthly
+10476,55.0,Male,Islamabad,Sports,Football,500.0,15,4.7,20,Yes,Debit Card,Standard,Monthly
+10477,58.0,Male,Islamabad,Electronics,Keyboard,2295.0,10,4.4,15,Yes,Debit Card,Standard,Monthly
+10478,18.0,Male,Peshawar,Electronics,Keyboard,671.0,5,4.6,17,No,Digital Wallet,Express,Fortnightly
+10479,49.0,Male,Karachi,Books,Notebook,4538.0,10,3.8,11,Yes,Digital Wallet,Express,Weekly
+10480,23.0,Female,Islamabad,Clothing,Sneakers,4232.0,5,4.4,6,Yes,Credit Card,Standard,Quarterly
+10481,31.0,Male,Multan,Clothing,Sneakers,3469.0,15,2.4,12,No,Debit Card,Standard,Monthly
+10482,57.0,Male,Lahore,Beauty,Face Cream,8924.0,20,4.5,23,Yes,Digital Wallet,Standard,Weekly
+10483,30.0,Male,Multan,Clothing,Sneakers,5708.0,15,3.9,15,No,Bank Transfer,Standard,Fortnightly
+10484,56.0,Male,Multan,Home,Lamp,6097.0,0,4.3,17,Yes,Digital Wallet,Standard,Quarterly
+10485,40.0,Male,Multan,Clothing,Jeans,2452.0,25,4.1,3,No,Debit Card,Same Day,Quarterly
+10486,29.0,Female,Faisalabad,Clothing,T-Shirt,2302.0,0,3.0,24,Yes,Credit Card,Standard,Quarterly
+10487,34.0,Male,Multan,Clothing,Jeans,4581.0,20,2.6,6,No,Debit Card,Standard,Monthly
+10488,43.0,Male,Multan,Electronics,Smartwatch,4881.0,10,3.2,24,Yes,Digital Wallet,Same Day,Monthly
+10489,54.0,Male,Peshawar,Clothing,Jeans,500.0,20,4.3,11,Yes,Digital Wallet,Standard,Monthly
+10490,47.0,Male,Islamabad,Clothing,Jacket,4103.0,5,4.4,22,No,Bank Transfer,Same Day,Fortnightly
+10491,62.0,Male,Islamabad,Sports,Football,4531.0,5,2.7,22,Yes,Bank Transfer,Standard,Monthly
+10492,59.0,Male,Faisalabad,Electronics,Keyboard,4027.0,10,3.0,18,Yes,Debit Card,Standard,Monthly
+10493,54.0,Female,Karachi,Electronics,Smartphone,2711.0,0,3.2,22,No,Credit Card,Same Day,Fortnightly
+10494,46.0,Male,Peshawar,Clothing,Jacket,3313.0,5,3.5,15,Yes,Debit Card,Standard,Rarely
+10495,31.0,Female,Multan,Electronics,Smartwatch,4111.0,20,2.7,21,No,Debit Card,Standard,Monthly
+10496,37.0,Female,Faisalabad,Clothing,Jacket,4700.0,25,2.7,4,No,Digital Wallet,Standard,Weekly
+10497,23.0,Male,Karachi,Beauty,Face Cream,5831.0,0,3.1,1,Yes,Debit Card,Express,Fortnightly
+10498,35.0,Male,Islamabad,Clothing,Jeans,6878.0,25,3.9,13,No,Bank Transfer,Standard,Quarterly
+10499,62.0,Female,Islamabad,Sports,Football,3852.0,20,2.9,20,Yes,Cash,Standard,Rarely
+10500,38.0,Female,Faisalabad,Books,Notebook,3496.0,25,3.7,19,No,Bank Transfer,Express,Monthly
+10034,44.0,Male,Karachi,Beauty,Face Cream,3645.0,30,5.0,15,No,Credit Card,Standard,Monthly
+10145,65.0,Male,Islamabad,Home,Bedsheet,5009.0,20,3.9,9,Yes,Debit Card,Standard,Fortnightly
+10288,45.0,Male,Lahore,Electronics,Headphones,4693.0,15,3.6,1,No,Credit Card,Express,Monthly
