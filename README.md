@@ -33,17 +33,21 @@ Exploratory Data Analysis (EDA) was performed to discover underlying patterns us
 * **Customer Loyalty:** Grouped customers by subscription status and previous purchase history to measure lifetime value metrics.
 
 ## Key Insights
-* **High-Value Categories:** Clothing and Accessories generate the highest proportion of total sales volume and revenue.
-* **Discount vs. Regular Buyers:** Customers using promo codes tend to buy frequently, but non-discount transactions account for a substantial portion of high-value individual cart sizes.
-* **Subscription Drive:** Subscribed customers display higher purchase frequency and give consistently higher review ratings compared to non-subscribers.
-* **Seasonal Demand:** Specific product categories experience significant spikes in sales during peak seasons (e.g., Fall/Winter collections).
+Key insights derived from the dataset analysis include:
+
+1. **Category Dominance:** The Clothing category generates significantly higher purchase volume and total revenue compared to other categories.
+2. **Customer Lifetime Value:** Previous purchases show a slight positive correlation with the purchase amount, indicating higher spending from repeat customers.
+3. **Geographic Distribution:** Purchase amounts are fairly evenly distributed across locations, with top-performing regions showing slightly higher overall sales volume.
+4. **Payment Preferences:** Debit Cards are among the most frequently used payment methods, whereas Credit Card usage is comparatively lower in overall frequency.
+5. **Demographic Spending:** Female customers show a higher average purchase amount per transaction compared to males.
+6. **Age Group Insights:** The 20–29 age demographic contributes the highest total spending across all age brackets.
 
 ## Tools & Libraries
 The following tools and libraries were used to build and execute this analysis:
 * **Programming Language:** Python 3.x
 * **Data Manipulation:** `pandas`, `numpy`
 * **Data Visualization:** `matplotlib`, `seaborn`
-* **Environment:** Jupyter Notebook / VS Code
+* **Environment:** Jupyter Notebook 
 
 ## Conclusion
 The analysis highlights clear links between customer demographics, payment preferences, and overall purchasing behavior. Leveraging customer loyalty programs and optimizing inventory around seasonal demand can significantly boost revenue and retention. Tailoring promotional campaigns to specific high-performing demographics will ensure higher marketing efficiency and ROI.
@@ -57,5 +61,5 @@ Future iterations of this project can incorporate:
 ---
 
 **Author:** Malik Muhammad Aqil  
-**Program:** BS Artificial Intelligence  
-**Institution:** University of Management and Technology, Lahore
+BS Artificial Intelligence  
+University of Management and Technology, Lahore
